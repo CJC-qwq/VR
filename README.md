@@ -31,29 +31,29 @@
 
 ### 硬件组件
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div align="center" style="margin: 15px;">
-    <img src="images/Arduino_Micro.png" alt="Arduino Micro开发板" width="320"/>
-    <p style="font-size: 16px;"><strong>Arduino Micro</strong></p>
-  </div>
-
-  <div align="center" style="margin: 15px;">
-    <img src="images/mpu9250.png" alt="MPU9250传感器" width="320"/>
-    <p style="font-size: 16px;"><strong>MPU9250传感器</strong></p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div align="center" style="margin: 15px;">
-    <img src="images/屏幕.jpg" alt="VR屏幕" width="320"/>
-    <p style="font-size: 16px;"><strong>VR屏幕</strong></p>
-  </div>
-
-  <div align="center" style="margin: 15px;">
-    <img src="images/屏幕驱动板.jpg" alt="屏幕驱动板" width="320"/>
-    <p style="font-size: 16px;"><strong>屏幕驱动板</strong></p>
-  </div>
-</div>
+<!-- 使用HTML表格实现图片并列 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Arduino_Micro.png" alt="Arduino Micro开发板" width="320"/>
+      <p style="font-size: 16px;"><strong>Arduino Micro</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/mpu9250.png" alt="MPU9250传感器" width="320"/>
+      <p style="font-size: 16px;"><strong>MPU9250传感器</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/屏幕.jpg" alt="VR屏幕" width="320"/>
+      <p style="font-size: 16px;"><strong>VR屏幕</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/屏幕驱动板.jpg" alt="屏幕驱动板" width="320"/>
+      <p style="font-size: 16px;"><strong>屏幕驱动板</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,17 +74,19 @@
 
 ### 硬件组件
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div align="center" style="margin: 15px;">
-    <img src="images/Arduino_nano.png" alt="Arduino Nano开发板" width="320"/>
-    <p style="font-size: 16px;"><strong>Arduino Nano</strong></p>
-  </div>
-
-  <div align="center" style="margin: 15px;">
-    <img src="images/esp32.jpg" alt="ESP32开发板" width="320"/>
-    <p style="font-size: 16px;"><strong>ESP32开发板</strong></p>
-  </div>
-</div>
+<!-- 使用HTML表格实现图片并列 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Arduino_nano.png" alt="Arduino Nano开发板" width="320"/>
+      <p style="font-size: 16px;"><strong>Arduino Nano</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/esp32.jpg" alt="ESP32开发板" width="320"/>
+      <p style="font-size: 16px;"><strong>ESP32开发板</strong></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center" style="margin: 15px;">
   <img src="images/电位器.png" alt="WH148电位器" width="320"/>
@@ -110,14 +112,16 @@
 
 ### 硬件组件
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div align="center" style="margin: 15px;">
-    <img src="images/esp8266.jpg" alt="ESP8266开发板" width="320"/>
-    <p style="font-size: 16px;"><strong>ESP8266开发板</strong></p>
-  </div>
-
-  <div align="center" style="margin: 15px;">
-    <img src="images/bno085.png" alt="BNO085传感器" width="320"/>
-    <p style="font-size: 16px;"><strong>BNO085传感器</strong></p>
-  </div>
-</div>
+<!-- 使用HTML表格实现图片并列 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/esp8266.jpg" alt="ESP8266开发板" width="320"/>
+      <p style="font-size: 16px;"><strong>ESP8266开发板</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/bno085.png" alt="BNO085传感器" width="320"/>
+      <p style="font-size: 16px;"><strong>BNO085传感器</strong></p>
+    </td>
+  </tr>
+</table>
