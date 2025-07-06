@@ -3,11 +3,11 @@
 ## 项目演示
 
 <p align="center">
-  <img src="videos/2.gif" alt="项目演示1" width="800" height="auto"/>
+  <img src="GIF/2.gif" alt="项目演示1" width="800" height="auto"/>
 </p>
 
 <p align="center">
-  <img src="videos/5.gif" alt="项目演示2" width="800" height="auto"/>
+  <img src="GIF/1.gif" alt="项目演示2" width="800" height="auto"/>
 </p>
 
 ---
@@ -75,8 +75,8 @@
 ## 2. 手部追踪模块
 
 <div align="center">
-  <img src="images/手套.jpg" alt="VR手套" width="550"/>
-  <p style="font-size: 18px;"><strong>VR手套</strong></p>
+  <img src="images/手套.jpg" alt="手部追踪手套" width="550"/>
+  <p style="font-size: 18px;"><strong>手部追踪手套</strong></p>
 </div>
 
 ### 技术原理
