@@ -39,11 +39,12 @@
   <img src="images/屏幕驱动板.jpg" alt="头部追踪示例5" width="250"/>
   <p>屏幕驱动板</p>
 </div>
+
 ### 手部追踪模块
 
 <!-- 手部追踪模块内容 -->
 <div align="center">
-  <img src="images/手套.jpg" alt="头部追踪示例3" width="250"/>
+  <img src="images/手套.jpg" alt="头部追踪示例3" width="400"/>
   <p>手套</p>
 </div>
 
@@ -66,7 +67,7 @@
 
 <!-- 肢体追踪模块内容 -->
 <div align="center">
-  <img src="images/肢体追踪.jpg" alt="头部追踪示例3" width="250"/>
+  <img src="images/肢体追踪.jpg" alt="头部追踪示例3" width="400"/>
   <p>肢体追踪模块</p>
 </div>
 
