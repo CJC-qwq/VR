@@ -3,11 +3,11 @@
 ## 项目演示
 
 <p align="center">
-  <img src="GIF/2.gif" alt="项目演示1" width="800" height="auto"/>
+  <img src="GIF/1.gif" alt="项目演示1" width="800" height="auto"/>
 </p>
 
 <p align="center">
-  <img src="GIF/1.gif" alt="项目演示2" width="800" height="auto"/>
+  <img src="GIF/2.gif" alt="项目演示2" width="800" height="auto"/>
 </p>
 
 ---
