@@ -31,7 +31,8 @@
 
 ### 硬件组件
 
-<!-- 使用HTML表格实现图片并列 -->
+#### 核心控制与传感器
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -43,6 +44,11 @@
       <p style="font-size: 16px;"><strong>MPU9250传感器</strong></p>
     </td>
   </tr>
+</table>
+
+#### 显示组件
+
+<table>
   <tr>
     <td align="center" width="50%">
       <img src="images/屏幕.jpg" alt="VR屏幕" width="320"/>
