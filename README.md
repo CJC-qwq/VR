@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="images/屏幕驱动板.png" alt="头部追踪示例5" width="400"/>
+  <img src="images/屏幕驱动板.jpg" alt="头部追踪示例5" width="400"/>
   <p>头部追踪功能示例5</p>
 </div>
 
