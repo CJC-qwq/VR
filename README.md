@@ -16,28 +16,28 @@
 
 <!-- 头部追踪图片展示 -->
 <div align="center">
-  <img src="images/头显.jpg" alt="头部追踪示例1" width="400"/>
-  <p>头部追踪功能示例1</p>
+  <img src="images/头显.jpg" alt="头部追踪示例1" width="250"/>
+  <p>VR头显</p>
 </div>
 
 <div align="center">
-  <img src="images/Arduino_Micro.png" alt="头部追踪示例2" width="400"/>
-  <p>头部追踪功能示例2</p>
+  <img src="images/Arduino_Micro.png" alt="头部追踪示例2" width="250"/>
+  <p>Arduino Micro</p>
 </div>
 
 <div align="center">
-  <img src="images/mpu9250.png" alt="头部追踪示例3" width="400"/>
-  <p>头部追踪功能示例3</p>
+  <img src="images/mpu9250.png" alt="头部追踪示例3" width="250"/>
+  <p>mpu9250</p>
 </div>
 
 <div align="center">
-  <img src="images/屏幕.jpg" alt="头部追踪示例4" width="400"/>
-  <p>头部追踪功能示例4</p>
+  <img src="images/屏幕.jpg" alt="头部追踪示例4" width="250"/>
+  <p>屏幕</p>
 </div>
 
 <div align="center">
-  <img src="images/屏幕驱动板.jpg" alt="头部追踪示例5" width="400"/>
-  <p>头部追踪功能示例5</p>
+  <img src="images/屏幕驱动板.jpg" alt="头部追踪示例5" width="250"/>
+  <p>屏幕驱动板</p>
 </div>
 
 ### 手部追踪模块
