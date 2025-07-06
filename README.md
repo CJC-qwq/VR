@@ -174,11 +174,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/头显建模1.png" alt="头显建模1" width="320"/>
+      <img src="images/头显建模1.png" alt="头显建模1" width="480"/>
       <p style="font-size: 16px;"><strong>头显建模-组合</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="images/头显建模2.png" alt="头显建模2" width="320"/>
+      <img src="images/头显建模2.png" alt="头显建模2" width="480"/>
       <p style="font-size: 16px;"><strong>头显建模-拆解</strong></p>
     </td>
   </tr>
