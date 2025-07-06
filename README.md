@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="images/头显.jpg" alt="VR头显" width="550"/>
-  <p style="font-size: 18px;"><strong>VR头显</strong></p>
+  <p style="font-size: 18px;"><strong>VR头显实物图</strong></p>
 </div>
 
 ### 技术原理
@@ -76,7 +76,7 @@
 
 <div align="center">
   <img src="images/手套.jpg" alt="手部追踪手套" width="550"/>
-  <p style="font-size: 18px;"><strong>手部追踪手套</strong></p>
+  <p style="font-size: 18px;"><strong>手部追踪手套实物图</strong></p>
 </div>
 
 ### 技术原理
@@ -119,7 +119,7 @@
 
 <div align="center">
   <img src="images/肢体追踪.jpg" alt="肢体追踪模块" width="550"/>
-  <p style="font-size: 18px;"><strong>肢体追踪模块</strong></p>
+  <p style="font-size: 18px;"><strong>肢体追踪模块实物图</strong></p>
 </div>
 
 ### 技术原理
@@ -150,4 +150,40 @@
 <p>BNO085为一款内置传感器融合算法的九轴IMU，以I2C接口为通道直接输出校准后的四元数姿态数据，省去主控端的复杂运算，其动态姿态解算的误差小于1°，可按照100Hz的数据输出频率工作，适应低功耗无线传输的要求，传感器跟NodeMCU（ESP8266）开发板加以连接，利用Wi-Fi模块借助UDP协议把数据同步到PC端，实现腰部、左右大臂及小臂的追踪需求。</p>
 
 <p>BNO085因高精度特性而能够准确地捕捉肢体旋转与位移，好比手臂摆动跟腰部转动动作，为虚拟角色给予连贯的骨骼驱动信号。</p>
+</div>
+
+## 4. 3d打印设计部分
+
+<div style="font-size: 16px;">
+<p>在设计的VR眼镜外壳及手套3D打印模型里，外壳采用了贴合人体工学的设计，保证佩戴起来舒适，操作也轻松，手套部分围绕关节设计做了优化处理，采用了白色树脂材质，谋求在保证灵活性的时候提供充足支撑，各个设计都顾及到人体工学原理，保证佩戴者在使用时能体会到自然的贴合与舒适感，符合长期佩戴的需求，这些设计不只看重实用性，还同时顾及了美观与耐用性，充分契合了VR体验的需求。</p>
+</div>
+
+### 手指关节手套
+
+<div align="center">
+  <img src="images/手指关节建模.png" alt="手指关节建模" width="550"/>
+  <p style="font-size: 18px;"><strong>手指关节建模</strong></p>
+</div>
+
+<div style="font-size: 16px;">
+<p>手套部分针对关节设计进行了优化，使用了白色树脂材料，力求在保证灵活性的同时提供足够的支撑，确保佩戴者在使用过程中感受到自然的贴合感和舒适度，适应长期佩戴需求。</p>
+</div>
+### VR眼镜
+
+<!-- 使用HTML表格实现图片并列 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/头显建模1.png" alt="头显建模1" width="320"/>
+      <p style="font-size: 16px;"><strong>头显建模-组合</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/头显建模2.png" alt="头显建模2" width="320"/>
+      <p style="font-size: 16px;"><strong>头显建模-拆解</strong></p>
+    </td>
+  </tr>
+</table>
+
+<div style="font-size: 16px;">
+<p>VR眼镜部分针对人脸面部结构进行了设计，使用了白色树脂材料，保证镜框弧度贴合大多数人脸面部，头带可拆卸弹性条，能适应不同头围并分散压力，减少对颧骨的压迫感。</p>
 </div>
