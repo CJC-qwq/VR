@@ -6,7 +6,7 @@
 
 <!-- 第一个视频 -->
 <video width="640" height="360" controls>
-  <source src="videos/vr_demo.mp4" type="video/mp4">
+  <source src="videos/2.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
 </video>
 
